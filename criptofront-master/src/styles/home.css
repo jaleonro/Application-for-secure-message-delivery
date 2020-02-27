@@ -1,0 +1,21 @@
+html{
+    background-color: #4798FF;
+}
+body {
+    background-color: #4798FF;
+}
+.rwcenter{
+    border: 3px solid green;
+    align-content: center;
+}
+
+.is-vertical-center {
+     justify-content: flex-start;
+     height:30vh;
+
+  }
+  .but-color1{
+    font-size: 25px;
+    
+  }
+  
